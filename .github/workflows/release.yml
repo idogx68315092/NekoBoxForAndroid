@@ -11,7 +11,7 @@ on:
       play:
         description: "Play: If want ignore"
         required: false
-jobs:
+jobs: 
   libcore:
     name: Native Build (LibCore)
     runs-on: ubuntu-latest
